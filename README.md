@@ -55,14 +55,10 @@ This dashboard is a **historical decision-support analysis** and does not guaran
 
 The executive dashboard summarizes overall delivery performance, lead-time reliability, distance effects, delivery-method performance, inventory impact, and the customer decision framework.
 
+![Executive Dashboard](./ON-TIME%20GIFT%20DELIVERY%20DECISION%20%26%20PERFORMANCE%20ANALYSIS.png)
+
 ### Delivery Deep Dive
 
 The detailed dashboard explores monthly trends, delivery status, delivery methods, regions, warehouses, product categories, occasions, delivery types, and the combined effect of lead time and distance.
 
-## Project Files
-
-- `on_time_gift_delivery_sql.csv` — analyzed dataset
-- `Project_2_On-Time_Gift_Delivery_Analysis.pbix` — Power BI dashboard
-- `Project_2_Gift_Delivery_Analysis.sql` — MySQL analysis
-- `Delivery Deep Dive.png` — dashboard screenshot
-- `ON-TIME GIFT DELIVERY DECISION & PERFORMANCE ANALYSIS.png` — executive dashboard screenshot
+![Delivery Deep Dive](./Delivery%20Deep%20Dive.png)
